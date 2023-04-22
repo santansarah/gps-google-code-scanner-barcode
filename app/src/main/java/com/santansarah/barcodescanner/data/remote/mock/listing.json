@@ -1,0 +1,706 @@
+{
+  "code":"0078742226583",
+  "product":{
+    "_id":"0078742226583",
+    "_keywords":[
+      "store",
+      "soda",
+      "cola",
+      "wal-mart",
+      "drink",
+      "diet",
+      "beverage",
+      "carbonated",
+      "inc"
+    ],
+    "added_countries_tags":[
+
+    ],
+    "additives_debug_tags":[
+      "en-e212-added",
+      "en-e211-removed",
+      "en-e331-removed"
+    ],
+    "additives_n":4,
+    "additives_old_n":2,
+    "additives_old_tags":[
+      "en:e150c",
+      "en:e951"
+    ],
+    "additives_original_tags":[
+      "en:e150c",
+      "en:e951",
+      "en:e338",
+      "en:e212"
+    ],
+    "additives_prev_original_tags":[
+      "en:e150a",
+      "en:e951",
+      "en:e338",
+      "en:e331",
+      "en:e211"
+    ],
+    "additives_tags":[
+      "en:e150c",
+      "en:e212",
+      "en:e338",
+      "en:e951"
+    ],
+    "allergens":"",
+    "allergens_from_ingredients":"",
+    "allergens_from_user":"(en) ",
+    "allergens_hierarchy":[
+
+    ],
+    "allergens_tags":[
+
+    ],
+    "amino_acids_prev_tags":[
+
+    ],
+    "amino_acids_tags":[
+
+    ],
+    "brand_owner":"Wal-Mart Stores, Inc.",
+    "brand_owner_imported":"Wal-Mart Stores, Inc.",
+    "brands":"Wal-Mart Stores  Inc.",
+    "brands_tags":[
+      "wal-mart-stores-inc"
+    ],
+    "categories":"Beverages, Carbonated drinks, Sodas",
+    "categories_hierarchy":[
+      "en:beverages",
+      "en:carbonated-drinks",
+      "en:sodas"
+    ],
+    "categories_imported":"Beverages, Carbonated drinks, Sodas",
+    "categories_lc":"en",
+    "categories_old":"Beverages, Carbonated drinks, Sodas",
+    "categories_properties":{
+      "agribalyse_proxy_food_code:en":"18340"
+    },
+    "categories_properties_tags":[
+      "all-products",
+      "categories-known",
+      "agribalyse-food-code-unknown",
+      "agribalyse-proxy-food-code-18340",
+      "agribalyse-proxy-food-code-known",
+      "ciqual-food-code-unknown",
+      "agribalyse-known",
+      "agribalyse-18340"
+    ],
+    "categories_tags":[
+      "en:beverages",
+      "en:carbonated-drinks",
+      "en:sodas"
+    ],
+    "category_properties":{
+
+    },
+    "checkers_tags":[
+
+    ],
+    "ciqual_food_name_tags":[
+      "unknown"
+    ],
+    "code":"0078742226583",
+    "codes_tags":[
+      "code-13",
+      "0078742226xxx",
+      "007874222xxxx",
+      "00787422xxxxx",
+      "0078742xxxxxx",
+      "007874xxxxxxx",
+      "00787xxxxxxxx",
+      "0078xxxxxxxxx",
+      "007xxxxxxxxxx",
+      "00xxxxxxxxxxx",
+      "0xxxxxxxxxxxx"
+    ],
+    "compared_to_category":"en:sodas",
+    "complete":0,
+    "completeness":0.5,
+    "correctors_tags":[
+      "inf",
+      "org-database-usda"
+    ],
+    "countries":"United States",
+    "countries_debug_tags":[
+
+    ],
+    "countries_hierarchy":[
+      "en:united-states"
+    ],
+    "countries_imported":"United States",
+    "countries_lc":"en",
+    "countries_tags":[
+      "en:united-states"
+    ],
+    "created_t":1489073573,
+    "creator":"usda-ndb-import",
+    "data_quality_bugs_tags":[
+
+    ],
+    "data_quality_errors_tags":[
+
+    ],
+    "data_quality_info_tags":[
+      "en:no-packaging-data",
+      "en:ingredients-percent-analysis-ok"
+    ],
+    "data_quality_tags":[
+      "en:no-packaging-data",
+      "en:ingredients-percent-analysis-ok",
+      "en:nutrition-value-under-0-1-g-salt",
+      "en:serving-quantity-defined-but-quantity-undefined"
+    ],
+    "data_quality_warnings_tags":[
+      "en:nutrition-value-under-0-1-g-salt",
+      "en:serving-quantity-defined-but-quantity-undefined"
+    ],
+    "data_sources":"Databases, database-usda, App - InFood, Apps, Database - USDA NDB",
+    "data_sources_imported":"Databases, database-usda",
+    "data_sources_tags":[
+      "databases",
+      "database-usda",
+      "app-infood",
+      "apps",
+      "database-usda-ndb"
+    ],
+    "ecoscore_data":{
+      "adjustments":{
+
+      },
+      "ecoscore_not_applicable_for_category":"en:sodas",
+      "scores":{
+
+      },
+      "status":"unknown"
+    },
+    "ecoscore_grade":"not-applicable",
+    "ecoscore_tags":[
+      "not-applicable"
+    ],
+    "editors_tags":[
+      "usda-ndb-import",
+      "org-database-usda",
+      "inf"
+    ],
+    "entry_dates_tags":[
+      "2017-03-09",
+      "2017-03",
+      "2017"
+    ],
+    "food_groups":"en:artificially-sweetened-beverages",
+    "food_groups_tags":[
+      "en:beverages",
+      "en:artificially-sweetened-beverages"
+    ],
+    "id":"0078742226583",
+    "informers_tags":[
+      "usda-ndb-import",
+      "org-database-usda"
+    ],
+    "ingredients":[
+      {
+        "id":"en:carbonated-water",
+        "percent_estimate":56.25,
+        "percent_max":100,
+        "percent_min":12.5,
+        "text":"Carbonated water",
+        "vegan":"yes",
+        "vegetarian":"yes"
+      },
+      {
+        "id":"en:e150a",
+        "percent_estimate":21.875,
+        "percent_max":50,
+        "percent_min":0,
+        "text":"caramel color",
+        "vegan":"yes",
+        "vegetarian":"yes"
+      },
+      {
+        "id":"en:e951",
+        "percent_estimate":10.9375,
+        "percent_max":33.3333333333333,
+        "percent_min":0,
+        "text":"aspartame",
+        "vegan":"yes",
+        "vegetarian":"yes"
+      },
+      {
+        "id":"en:e338",
+        "percent_estimate":5.46875,
+        "percent_max":25,
+        "percent_min":0,
+        "text":"phosphoric acid",
+        "vegan":"yes",
+        "vegetarian":"yes"
+      },
+      {
+        "id":"en:e332ii",
+        "percent_estimate":2.734375,
+        "percent_max":20,
+        "percent_min":0,
+        "text":"potassium citrate",
+        "vegan":"yes",
+        "vegetarian":"yes"
+      },
+      {
+        "id":"en:e212",
+        "ingredients":[
+          {
+            "id":"en:preservative",
+            "percent_estimate":1.3671875,
+            "percent_max":16.6666666666667,
+            "percent_min":0,
+            "text":"preservative"
+          }
+        ],
+        "percent_estimate":1.3671875,
+        "percent_max":16.6666666666667,
+        "percent_min":0,
+        "text":"potassium benzoate",
+        "vegan":"yes",
+        "vegetarian":"yes"
+      },
+      {
+        "id":"en:caffeine",
+        "percent_estimate":0.68359375,
+        "percent_max":14.2857142857143,
+        "percent_min":0,
+        "text":"caffeine",
+        "vegan":"yes",
+        "vegetarian":"yes"
+      },
+      {
+        "id":"en:natural-flavouring",
+        "percent_estimate":0.68359375,
+        "percent_max":12.5,
+        "percent_min":0,
+        "text":"natural flavor",
+        "vegan":"maybe",
+        "vegetarian":"maybe"
+      }
+    ],
+    "ingredients_analysis":{
+      "en:maybe-vegan":[
+        "en:natural-flavouring"
+      ],
+      "en:maybe-vegetarian":[
+        "en:natural-flavouring"
+      ]
+    },
+    "ingredients_analysis_tags":[
+      "en:palm-oil-free",
+      "en:maybe-vegan",
+      "en:maybe-vegetarian"
+    ],
+    "ingredients_debug":[
+      "Carbonated water",
+      ",",
+      null,
+      null,
+      null,
+      " caramel color",
+      ",",
+      null,
+      null,
+      null,
+      " aspartame",
+      ",",
+      null,
+      null,
+      null,
+      " phosphoric acid",
+      ",",
+      null,
+      null,
+      null,
+      " potassium citrate",
+      ",",
+      null,
+      null,
+      null,
+      " potassium benzoate ",
+      "(",
+      "(",
+      null,
+      null,
+      "preservative)",
+      ",",
+      null,
+      null,
+      null,
+      " ",
+      ":",
+      ":",
+      null,
+      null,
+      " natural flavor ",
+      ":",
+      ":",
+      null,
+      null,
+      " ",
+      ",",
+      null,
+      null,
+      null,
+      " caffeine."
+    ],
+    "ingredients_from_or_that_may_be_from_palm_oil_n":0,
+    "ingredients_from_palm_oil_n":0,
+    "ingredients_from_palm_oil_tags":[
+
+    ],
+    "ingredients_hierarchy":[
+      "en:carbonated-water",
+      "en:water",
+      "en:e150a",
+      "en:e951",
+      "en:e338",
+      "en:e332ii",
+      "en:e332",
+      "en:e212",
+      "en:caffeine",
+      "en:natural-flavouring",
+      "en:flavouring",
+      "en:preservative"
+    ],
+    "ingredients_ids_debug":[
+      "carbonated-water",
+      "caramel-color",
+      "aspartame",
+      "phosphoric-acid",
+      "potassium-citrate",
+      "potassium-benzoate",
+      "preservative",
+      "natural-flavor",
+      "caffeine"
+    ],
+    "ingredients_n":9,
+    "ingredients_n_tags":[
+      "9",
+      "1-10"
+    ],
+    "ingredients_original_tags":[
+      "en:carbonated-water",
+      "en:e150a",
+      "en:e951",
+      "en:e338",
+      "en:e332ii",
+      "en:e212",
+      "en:caffeine",
+      "en:natural-flavouring",
+      "en:preservative"
+    ],
+    "ingredients_percent_analysis":1,
+    "ingredients_tags":[
+      "en:carbonated-water",
+      "en:water",
+      "en:e150a",
+      "en:e951",
+      "en:e338",
+      "en:e332ii",
+      "en:e332",
+      "en:e212",
+      "en:caffeine",
+      "en:natural-flavouring",
+      "en:flavouring",
+      "en:preservative"
+    ],
+    "ingredients_text":"Carbonated water, caramel color, aspartame, phosphoric acid, potassium citrate, potassium benzoate (preservative), caffeine, natural flavor.",
+    "ingredients_text_debug":"Carbonated water, caramel color, aspartame, phosphoric acid, potassium citrate, potassium benzoate (preservative), : natural flavor : , caffeine.",
+    "ingredients_text_en":"Carbonated water, caramel color, aspartame, phosphoric acid, potassium citrate, potassium benzoate (preservative), caffeine, natural flavor.",
+    "ingredients_text_en_imported":"Carbonated water, caramel color, aspartame, phosphoric acid, potassium citrate, potassium benzoate (preservative), caffeine, natural flavor.",
+    "ingredients_text_with_allergens":"Carbonated water, caramel color, aspartame, phosphoric acid, potassium citrate, potassium benzoate (preservative), caffeine, natural flavor.",
+    "ingredients_text_with_allergens_en":"Carbonated water, caramel color, aspartame, phosphoric acid, potassium citrate, potassium benzoate (preservative), caffeine, natural flavor.",
+    "ingredients_that_may_be_from_palm_oil_n":0,
+    "ingredients_that_may_be_from_palm_oil_tags":[
+
+    ],
+    "ingredients_with_specified_percent_n":0,
+    "ingredients_with_specified_percent_sum":0,
+    "ingredients_with_unspecified_percent_n":8,
+    "ingredients_with_unspecified_percent_sum":100,
+    "interface_version_created":"import_us_ndb.pl - version 2017/03/04",
+    "interface_version_modified":"20150316.jqm2",
+    "known_ingredients_n":12,
+    "lang":"en",
+    "languages":{
+      "en:english":2
+    },
+    "languages_codes":{
+      "en":2
+    },
+    "languages_hierarchy":[
+      "en:english"
+    ],
+    "languages_tags":[
+      "en:english",
+      "en:1"
+    ],
+    "last_edit_dates_tags":[
+      "2020-04-22",
+      "2020-04",
+      "2020"
+    ],
+    "last_editor":"org-database-usda",
+    "last_modified_by":"org-database-usda",
+    "last_modified_t":1587586389,
+    "lc":"en",
+    "lc_imported":"en",
+    "main_countries_tags":[
+
+    ],
+    "minerals_prev_tags":[
+
+    ],
+    "minerals_tags":[
+      "en:tripotassium-citrate"
+    ],
+    "misc_tags":[
+      "en:nutriscore-not-computed",
+      "en:nutrition-not-enough-data-to-compute-nutrition-score",
+      "en:nutrition-no-saturated-fat",
+      "en:nutriscore-missing-nutrition-data",
+      "en:nutriscore-missing-nutrition-data-saturated-fat",
+      "en:ecoscore-not-computed",
+      "en:ecoscore-extended-data-not-computed",
+      "en:ecoscore-not-applicable"
+    ],
+    "nova_group":4,
+    "nova_group_debug":" -- categories/en:sodas : 3 -- additives/en:e150c : 4",
+    "nova_group_tags":[
+      "not-applicable"
+    ],
+    "nova_groups":"4",
+    "nova_groups_tags":[
+      "en:4-ultra-processed-food-and-drink-products"
+    ],
+    "nucleotides_prev_tags":[
+
+    ],
+    "nucleotides_tags":[
+
+    ],
+    "nutrient_levels":{
+      "fat":"low",
+      "salt":"low",
+      "sugars":"low"
+    },
+    "nutrient_levels_tags":[
+      "en:fat-in-low-quantity",
+      "en:sugars-in-low-quantity",
+      "en:salt-in-low-quantity"
+    ],
+    "nutriments":{
+      "carbohydrates":0,
+      "carbohydrates_100g":0,
+      "carbohydrates_serving":0,
+      "carbohydrates_unit":"g",
+      "carbohydrates_value":0,
+      "energy":0,
+      "energy-kcal":0,
+      "energy-kcal_100g":0,
+      "energy-kcal_serving":0,
+      "energy-kcal_unit":"kcal",
+      "energy-kcal_value":0,
+      "energy_100g":0,
+      "energy_serving":0,
+      "energy_unit":"kcal",
+      "energy_value":0,
+      "fat":0,
+      "fat_100g":0,
+      "fat_serving":0,
+      "fat_unit":"g",
+      "fat_value":0,
+      "fruits-vegetables-nuts-estimate-from-ingredients_100g":0,
+      "fruits-vegetables-nuts-estimate-from-ingredients_serving":0,
+      "nova-group":4,
+      "nova-group_100g":4,
+      "nova-group_serving":4,
+      "proteins":0,
+      "proteins_100g":0,
+      "proteins_serving":0,
+      "proteins_unit":"g",
+      "proteins_value":0,
+      "salt":0.025,
+      "salt_100g":0.025,
+      "salt_serving":0.09,
+      "salt_unit":"mg",
+      "salt_value":25,
+      "sodium":0.01,
+      "sodium_100g":0.01,
+      "sodium_serving":0.036,
+      "sodium_unit":"mg",
+      "sodium_value":10,
+      "sugars":0,
+      "sugars_100g":0,
+      "sugars_serving":0,
+      "sugars_unit":"g",
+      "sugars_value":0
+    },
+    "nutrition_data":"on",
+    "nutrition_data_per":"100g",
+    "nutrition_data_per_imported":"100g",
+    "nutrition_data_prepared_per":"100g",
+    "nutrition_data_prepared_per_imported":"100g",
+    "nutrition_grades_tags":[
+      "unknown"
+    ],
+    "nutrition_score_beverage":1,
+    "nutrition_score_debug":"missing saturated-fat",
+    "other_nutritional_substances_tags":[
+
+    ],
+    "packagings":[
+
+    ],
+    "photographers_tags":[
+
+    ],
+    "pnns_groups_1":"Beverages",
+    "pnns_groups_1_tags":[
+      "beverages",
+      "known"
+    ],
+    "pnns_groups_2":"Artificially sweetened beverages",
+    "pnns_groups_2_tags":[
+      "artificially-sweetened-beverages",
+      "known"
+    ],
+    "popularity_key":1,
+    "popularity_tags":[
+      "bottom-25-percent-scans-2021",
+      "bottom-20-percent-scans-2021",
+      "top-85-percent-scans-2021",
+      "top-90-percent-scans-2021",
+      "top-50000-us-scans-2021",
+      "top-100000-us-scans-2021",
+      "top-country-us-scans-2021"
+    ],
+    "product_name":"Diet cola",
+    "product_name_en":"Diet cola",
+    "product_name_en_imported":"Diet cola",
+    "removed_countries_tags":[
+
+    ],
+    "rev":3,
+    "scans_n":2,
+    "serving_quantity":"360",
+    "serving_size":"12 OZA (360 ml)",
+    "serving_size_imported":"12 OZA (360 ml)",
+    "sortkey":1587586389,
+    "sources":[
+      {
+        "fields":[
+          "product_name_en",
+          "brands",
+          "countries",
+          "serving_size",
+          "ingredients_text_en",
+          "nutrients.energy",
+          "nutrients.proteins",
+          "nutrients.fat",
+          "nutrients.carbohydrates",
+          "nutrients.sugars",
+          "nutrients.sodium"
+        ],
+        "id":"usda-ndb",
+        "images":[
+
+        ],
+        "import_t":1489073573,
+        "url":"https://api.nal.usda.gov/ndb/reports/?ndbno=45152772&type=f&format=json&api_key=DEMO_KEY"
+      },
+      {
+        "fields":[
+          "product_name_en",
+          "categories",
+          "brand_owner",
+          "data_sources",
+          "serving_size",
+          "ingredients_text_en",
+          "nutrients.salt_unit",
+          "nutrients.salt_value"
+        ],
+        "id":"database-usda",
+        "images":[
+
+        ],
+        "import_t":1587586389,
+        "manufacturer":null,
+        "name":"database-usda",
+        "url":null
+      }
+    ],
+    "sources_fields":{
+      "org-database-usda":{
+        "available_date":"2018-08-10T00:00:00Z",
+        "fdc_category":"Soda",
+        "fdc_data_source":"LI",
+        "fdc_id":"423989",
+        "modified_date":"2018-08-10T00:00:00Z",
+        "publication_date":"2019-04-01T00:00:00Z"
+      }
+    },
+    "states":"en:to-be-completed, en:nutrition-facts-completed, en:ingredients-completed, en:expiration-date-to-be-completed, en:packaging-code-to-be-completed, en:characteristics-to-be-completed, en:origins-to-be-completed, en:categories-completed, en:brands-completed, en:packaging-to-be-completed, en:quantity-to-be-completed, en:product-name-completed, en:photos-to-be-uploaded",
+    "states_hierarchy":[
+      "en:to-be-completed",
+      "en:nutrition-facts-completed",
+      "en:ingredients-completed",
+      "en:expiration-date-to-be-completed",
+      "en:packaging-code-to-be-completed",
+      "en:characteristics-to-be-completed",
+      "en:origins-to-be-completed",
+      "en:categories-completed",
+      "en:brands-completed",
+      "en:packaging-to-be-completed",
+      "en:quantity-to-be-completed",
+      "en:product-name-completed",
+      "en:photos-to-be-uploaded"
+    ],
+    "states_tags":[
+      "en:to-be-completed",
+      "en:nutrition-facts-completed",
+      "en:ingredients-completed",
+      "en:expiration-date-to-be-completed",
+      "en:packaging-code-to-be-completed",
+      "en:characteristics-to-be-completed",
+      "en:origins-to-be-completed",
+      "en:categories-completed",
+      "en:brands-completed",
+      "en:packaging-to-be-completed",
+      "en:quantity-to-be-completed",
+      "en:product-name-completed",
+      "en:photos-to-be-uploaded"
+    ],
+    "traces":"",
+    "traces_from_ingredients":"",
+    "traces_from_user":"(en) ",
+    "traces_hierarchy":[
+
+    ],
+    "traces_tags":[
+
+    ],
+    "unique_scans_n":1,
+    "unknown_ingredients_n":0,
+    "unknown_nutrients_tags":[
+
+    ],
+    "update_key":"key_1645613197",
+    "vitamins_prev_tags":[
+
+    ],
+    "vitamins_tags":[
+
+    ],
+    "with_sweeteners":1
+  },
+  "status":1,
+  "status_verbose":"product found"
+}
