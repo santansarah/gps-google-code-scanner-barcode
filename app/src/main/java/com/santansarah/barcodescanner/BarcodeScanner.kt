@@ -31,8 +31,20 @@ class BarcodeScanner(
             barCodeResults.value = result.rawValue
             Timber.d(barCodeResults.value)
         } catch (e: Exception) {
-            Timber.d("scan error: ${e.message}")
+            Timber.d("scan error: $e")
         }
     }
+
+    /* alt:
+    scanner.startScan()
+    .addOnSuccessListener { barcode ->
+        // Task completed successfully
+    }
+    .addOnCanceledListener {
+        // Task canceled
+    }
+    .addOnFailureListener { e ->
+        // Task failed with an exception
+    }*/
 
 }
